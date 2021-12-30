@@ -1,0 +1,24 @@
+﻿  Starter.cpp
+Starter.obj : error LNK2019: "public: bool __cdecl bx::Thread::init(int (__cdecl*)(class bx::Thread *,void *),void *,unsigned int,char const *)" (?init@Thread@bx@@QEAA_NP6AHPEAV12@PEAX@Z1IPEBD@Z)"public: static int __cdecl Starter::Start(void)" (?Start@Starter@@SAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "public: void __cdecl bx::Thread::shutdown(void)" (?shutdown@Thread@bx@@QEAAXXZ)"public: static int __cdecl Starter::Start(void)" (?Start@Starter@@SAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "public: __cdecl bgfx::PlatformData::PlatformData(void)" (??0PlatformData@bgfx@@QEAA@XZ)"public: static bool __cdecl Starter::SdlSetWindow(struct SDL_Window *)" (?SdlSetWindow@Starter@@SA_NPEAUSDL_Window@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "public: __cdecl bgfx::Init::Init(void)" (??0Init@bgfx@@QEAA@XZ)"public: static void __cdecl Starter::ThreadInit(void)" (?ThreadInit@Starter@@SAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "bool __cdecl bgfx::init(struct bgfx::Init const &)" (?init@bgfx@@YA_NAEBUInit@1@@Z)"public: static void __cdecl Starter::ThreadInit(void)" (?ThreadInit@Starter@@SAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "void __cdecl bgfx::shutdown(void)" (?shutdown@bgfx@@YAXXZ)"public: static int __cdecl Starter::Start(void)" (?Start@Starter@@SAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "void __cdecl bgfx::reset(unsigned int,unsigned int,unsigned int,enum bgfx::TextureFormat::Enum)" (?reset@bgfx@@YAXIIIW4Enum@TextureFormat@1@@Z)"public: static void __cdecl Starter::ThreadInit(void)" (?ThreadInit@Starter@@SAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "unsigned int __cdecl bgfx::frame(bool)" (?frame@bgfx@@YAI_N@Z)"public: static int __cdecl Starter::Start(void)" (?Start@Starter@@SAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "void __cdecl bgfx::setDebug(unsigned int)" (?setDebug@bgfx@@YAXI@Z)"public: static void __cdecl Starter::ThreadInit(void)" (?ThreadInit@Starter@@SAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "void __cdecl bgfx::dbgTextClear(unsigned char,bool)" (?dbgTextClear@bgfx@@YAXE_N@Z)"public: static int __cdecl Starter::ThreadMain(class bx::Thread *,void *)" (?ThreadMain@Starter@@SAHPEAVThread@bx@@PEAX@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "void __cdecl bgfx::dbgTextPrintf(unsigned short,unsigned short,unsigned char,char const *,...)" (?dbgTextPrintf@bgfx@@YAXGGEPEBDZZ)"public: static int __cdecl Starter::ThreadMain(class bx::Thread *,void *)" (?ThreadMain@Starter@@SAHPEAVThread@bx@@PEAX@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "void __cdecl bgfx::setViewRect(unsigned short,unsigned short,unsigned short,unsigned short,unsigned short)" (?setViewRect@bgfx@@YAXGGGGG@Z)"public: static int __cdecl Starter::ThreadMain(class bx::Thread *,void *)" (?ThreadMain@Starter@@SAHPEAVThread@bx@@PEAX@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "void __cdecl bgfx::setViewClear(unsigned short,unsigned short,unsigned int,float,unsigned char)" (?setViewClear@bgfx@@YAXGGIME@Z)"public: static void __cdecl Starter::ThreadInit(void)" (?ThreadInit@Starter@@SAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "void __cdecl bgfx::touch(unsigned short)" (?touch@bgfx@@YAXG@Z)"public: static int __cdecl Starter::ThreadMain(class bx::Thread *,void *)" (?ThreadMain@Starter@@SAHPEAVThread@bx@@PEAX@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "enum bgfx::RenderFrame::Enum __cdecl bgfx::renderFrame(int)" (?renderFrame@bgfx@@YA?AW4Enum@RenderFrame@1@H@Z)"public: static int __cdecl Starter::Start(void)" (?Start@Starter@@SAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2019: "void __cdecl bgfx::setPlatformData(struct bgfx::PlatformData const &)" (?setPlatformData@bgfx@@YAXAEBUPlatformData@1@@Z)"public: static bool __cdecl Starter::SdlSetWindow(struct SDL_Window *)" (?SdlSetWindow@Starter@@SA_NPEAUSDL_Window@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Starter.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: static class bx::Thread Starter::thread" (?thread@Starter@@2VThread@bx@@A)
+Starter.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: static int Starter::counter" (?counter@Starter@@2HA)
+F:\UnthreadEngine\bgfx\bgfxDebug.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+F:\UnthreadEngine\bimg\bimgDebug.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+F:\UnthreadEngine\bimg\bimg_decodeDebug.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+F:\UnthreadEngine\bx\bxDebug.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+F:\UnthreadEngine\x64\Debug\UnthreadEngine_Starter.exe : fatal error LNK1120: 18개의 확인할 수 없는 외부 참조입니다.

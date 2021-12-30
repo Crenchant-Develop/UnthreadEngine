@@ -1,0 +1,56 @@
+﻿  UnthreadEngine_Starter.cpp
+bimgDebug.lib(codec.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+bimgDebug.lib(footprint.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+bimgDebug.lib(physical_astc_block.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+bimgDebug.lib(astc_file.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+bimgDebug.lib(logical_astc_block.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+bimgDebug.lib(integer_sequence_codec.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+bimgDebug.lib(intermediate_astc_block.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+bimgDebug.lib(partition.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+bimgDebug.lib(endpoint_codec.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+bimgDebug.lib(quantization.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+bimgDebug.lib(weight_infill.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(raisehan.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(locale0.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(locale0.obj) : error LNK2005: "void __cdecl std::_Facet_Register(class std::_Facet_base *)" (?_Facet_Register@std@@YAXPAV_Facet_base@1@@Z)이(가) msvcprtd.lib(locale0_implib.obj)에 이미 정의되어 있습니다.
+libcpmtd.lib(locale0.obj) : error LNK2005: "private: static class std::locale::_Locimp * __cdecl std::locale::_Getgloballocale(void)" (?_Getgloballocale@locale@std@@CAPAV_Locimp@12@XZ)이(가) msvcprtd.lib(MSVCP140D.dll)에 이미 정의되어 있습니다.
+libcpmtd.lib(locale0.obj) : error LNK2005: "private: static class std::locale::_Locimp * __cdecl std::locale::_Init(bool)" (?_Init@locale@std@@CAPAV_Locimp@12@_N@Z)이(가) msvcprtd.lib(MSVCP140D.dll)에 이미 정의되어 있습니다.
+libcpmtd.lib(locale0.obj) : error LNK2005: "public: static void __cdecl std::_Locinfo::_Locinfo_ctor(class std::_Locinfo *,char const *)" (?_Locinfo_ctor@_Locinfo@std@@SAXPAV12@PBD@Z)이(가) msvcprtd.lib(MSVCP140D.dll)에 이미 정의되어 있습니다.
+libcpmtd.lib(locale0.obj) : error LNK2005: "public: static void __cdecl std::_Locinfo::_Locinfo_dtor(class std::_Locinfo *)" (?_Locinfo_dtor@_Locinfo@std@@SAXPAV12@@Z)이(가) msvcprtd.lib(MSVCP140D.dll)에 이미 정의되어 있습니다.
+libcpmtd.lib(locale.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(iosptrs.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(nothrow.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(wlocale.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xlocale.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xstol.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xstoul.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xstoll.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xstoull.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xlock.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xlock.obj) : error LNK2005: "public: __thiscall std::_Lockit::_Lockit(int)" (??0_Lockit@std@@QAE@H@Z)이(가) msvcprtd.lib(MSVCP140D.dll)에 이미 정의되어 있습니다.
+libcpmtd.lib(xlock.obj) : error LNK2005: "public: __thiscall std::_Lockit::~_Lockit(void)" (??1_Lockit@std@@QAE@XZ)이(가) msvcprtd.lib(MSVCP140D.dll)에 이미 정의되어 있습니다.
+libcpmtd.lib(xstrcoll.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xdateord.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xmbtowc.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xwctomb.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xwctomb.obj) : error LNK2005: __Getcvt이(가) msvcprtd.lib(MSVCP140D.dll)에 이미 정의되어 있습니다.
+libcpmtd.lib(xwcscoll.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xgetwctype.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xtowlower.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xtowupper.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xstrxfrm.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(xmtx.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(StlCompareStringW.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(StlLCMapStringW.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(UnthreadEngine_Starter.obj에 위치) 값과 일치하지 않습니다.
+     F:\UnthreadEngine\Debug\UnthreadEngine_Starter.lib 라이브러리 및 F:\UnthreadEngine\Debug\UnthreadEngine_Starter.exp 개체를 생성하고 있습니다.
+LINK : warning LNK4098: 'LIBCMTD' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+Starter.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: static class bx::Thread Starter::thread" (?thread@Starter@@2VThread@bx@@A)
+Starter.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: static int Starter::counter" (?counter@Starter@@2HA)
+bgfxDebug.lib(debug_renderdoc.obj) : error LNK2019: _EnumProcessModules@16"void * __cdecl bgfx::findModule(char const *)" (?findModule@bgfx@@YAPAXPBD@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+bgfxDebug.lib(debug_renderdoc.obj) : error LNK2019: _GetModuleBaseNameA@16"void * __cdecl bgfx::findModule(char const *)" (?findModule@bgfx@@YAPAXPBD@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+bxDebug.lib(os.obj) : error LNK2019: _GetProcessMemoryInfo@12"unsigned int __cdecl bx::getProcessMemoryUsed(void)" (?getProcessMemoryUsed@bx@@YAIXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+F:\UnthreadEngine\Mono\lib\mono-2.0-sgen.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+F:\UnthreadEngine\Debug\UnthreadEngine_Starter.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.
